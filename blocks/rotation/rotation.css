@@ -1,0 +1,14 @@
+@keyframes rotation {
+  from {
+    transform:rotateZ(0deg);
+  }
+  to {
+    transform:rotateZ(360deg);
+  }
+}
+
+.rotation {
+animation-name:rotation;
+animation-duration:20s;
+animation-iteration-count:infinite;
+}
