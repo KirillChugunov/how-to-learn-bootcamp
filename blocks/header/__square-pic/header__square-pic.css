@@ -7,4 +7,6 @@
   background-color: #2f80ed;
   overflow:hidden;
   max-width: 100%;
+  z-index:50;
+  background-size:cover;
 }
