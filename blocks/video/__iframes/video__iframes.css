@@ -1,8 +1,8 @@
 .video__iframes {
-  margin:50px auto -70px auto;
+  margin: 50px auto -70px auto;
   justify-content: center;
   align-items: baseline;
-  display:flex;
-  overflow:visible;
-  flex-wrap:nowrap;
+  display: flex;
+  overflow: visible;
+  flex-wrap: nowrap;
 }
