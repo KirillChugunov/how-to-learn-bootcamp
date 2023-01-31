@@ -5,4 +5,5 @@
   right: 0px;
   bottom: 0px;
   z-index: 60;
+  object-fit:cover;
 }
